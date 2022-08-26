@@ -1,0 +1,94 @@
+{
+    "user": [
+        {
+            "username": "indu",
+            "password": "INdu@123",
+            "Profile": {
+                "description": "My name is Indu",
+                "D.O.B": "29-10-2002",
+                "Gender": "female",
+                "Hobbies": "dancing and singing"
+            }
+        },
+        {
+            "username": "likitha",
+            "password": "LIkki@123",
+            "Profile": {
+                "Description": "My Name is Likitha",
+                "D.O.B": "13-10-2003",
+                "Gender": "female",
+                "Hobbies": "dancing"
+            }
+        },
+        {
+            "username": "sai",
+            "password": "SAIlikitha@123",
+            "Profile": {
+                "Description": "My name is sai likitha",
+                "D.O.B": "12-3-2001",
+                "Gender": "female",
+                "Hobbies": "reading"
+            }
+        },
+        {
+            "username": "naga",
+            "password": "NAGAmani@123",
+            "Profile": {
+                "Description": "MY name is nagamani",
+                "D.O.B": "9-10-2002",
+                "Gender": "female",
+                "Hobbies": "dancing"
+            }
+        },
+        {
+            "username": "bharathi",
+            "password": "BHArathi@123",
+            "Profile": {
+                "Description": "My name is Bharathi",
+                "D.O.B": "12-4-2001",
+                "Gender": "female",
+                "Hobbies": "reading"
+            }
+        },
+        {
+            "username": "jyothi",
+            "password": "JYOthi@123",
+            "Profile": {
+                "Description": "MY name is jyothi",
+                "D.O.B": "2-4-2001",
+                "Gender": "female",
+                "Hobbies": "dancing"
+            }
+        },
+        {
+            "username": "sasank",
+            "password": "SAsank@123",
+            "Profile": {
+                "Description": "my name is sasank",
+                "D.O.B": "2-4-2020",
+                "Gender": "male",
+                "Hobbies": "playing games"
+            }
+        },
+        {
+            "username": "rani",
+            "password": "RANIsharma@123",
+            "Profile": {
+                "Description": "my name is rani ",
+                "D.O.B": "2-3-2003",
+                "Gender": "female",
+                "Hobbies": "reading"
+            }
+        },
+        {
+            "username": "manju",
+            "password": "MAnju@123",
+            "Profile": {
+                "Description": "My name is manjusha",
+                "D.O.B": "2-4-2000",
+                "Gender": "female",
+                "Hobbies": "reading"
+            }
+        }
+    ]
+}
